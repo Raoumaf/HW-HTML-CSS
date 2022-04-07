@@ -1,0 +1,48 @@
+body {
+    background-image: url('background-image.png');
+    font-family:  'Times New Roman' ;
+}
+
+
+  
+table,th,tr,td{ 
+    border: 1px solid black;
+    width:1400px ;
+    text-align: left;
+
+}
+
+img{
+    position: relative;
+    top :0ex;
+    left: 0px; 
+    }
+    h1{
+        position: absolute;
+        top: 5px;
+        left: 20%;
+    }
+     h4{
+        position: absolute;
+        top: 50px;
+        left: 20%;
+     }
+     .pra{
+        position: absolute;
+        top: 90px;
+        left: 20%;
+     }
+ 
+      .b{
+        position: relative;
+        top: 200px;
+        left: 30%;
+            
+      }
+      .v{
+        position: relative;
+        bottom: 0px;
+        left: 45%;
+      }
+ 
+
